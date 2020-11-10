@@ -242,7 +242,7 @@ button:hover {
   margin-bottom: 10px;
 }
 
-.input100 {
+.form-control {
   font-family: Poppins-Medium;
   font-size: 15px;
   line-height: 1.5;
@@ -341,11 +341,11 @@ button:hover {
   transition: all 0.4s;
 }
 
-.input100:focus + .focus-input100 + .symbol-input1001  {
+.form-control:focus + .focus-input100 + .symbol-input1001  {
   color: #ba1d1d;
   padding-left: 28px;
 }
-.input100:focus + .focus-input100 + .symbol-input1002  {
+.form-control:focus + .focus-input100 + .symbol-input1002  {
   color: #ba1d1d;
   padding-left: 28px;
 }
