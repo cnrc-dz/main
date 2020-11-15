@@ -188,7 +188,7 @@ iframe {
   font-family: Montserrat-Bold;
   font-size: 26px;
   color: #333333;
-  line-height: 1.2; 
+  line-height: 0; 
 	
   width: 100%;
   display: -webkit-box;
