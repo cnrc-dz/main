@@ -14,7 +14,8 @@ f-icon.bookmark-icon
 {
 	width:60px;
 	height:60px;
-	padding:0 .2em	
+	padding:0 .2em
+		background-color:#ce2828;
 }
 
 f-icon.bookmark-icon,f-icon.bookmark-icon::before
