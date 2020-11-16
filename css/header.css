@@ -1,13 +1,17 @@
+.view-container
+{
+
+	background-color: #ff8a8a;
+}
 .vertical-margin
 {
 	margin:1em 0;
-	background-color:#cf1313;
 }
 
 .horizontal-spacer
 {
-	border-top:3px solid #cf1313;
-	background-color:#cf1313;
+	border-top:3px solid #ff8a8a;
+	background-color:#ff8a8a;
 }
 
 f-icon.bookmark-icon
