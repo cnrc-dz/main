@@ -6,7 +6,6 @@
 .vertical-margin
 {
 	margin:1em 0;
-		      background-color:#fff9f9;
 }
 
 .horizontal-spacer
@@ -21,25 +20,21 @@ f-icon.bookmark-icon
 	width:100px;
 	height:100px;
 	padding:0 .2em;
-		background-image: url(%%IMAGE:CNRC-LOGO3%%);
 }
 
 f-icon.bookmark-icon,f-icon.bookmark-icon::before
 {
 	font-size:100px;	
-				background-image: url(%%IMAGE:CNRC-LOGO3%%);
 }
 
 f-icon.bookmark-icon-large
 {
 	width:100px;height:100px;padding:0 .2em;
-				background-image: url(%%IMAGE:CNRC-LOGO3%%);
 }
 
 f-icon.bookmark-icon-large,f-icon.bookmark-icon-large::before
 {
 	font-size:100px;
-				background-image: url(%%IMAGE:CNRC-LOGO3%%);
 }
 
 .bookmark
