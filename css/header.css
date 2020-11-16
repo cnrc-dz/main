@@ -12,19 +12,19 @@
 
 f-icon.bookmark-icon
 {
-	width:20px;
-	height:20px;
+	width:100px;
+	height:100px;
 	padding:0 .2em
 }
 
 f-icon.bookmark-icon,f-icon.bookmark-icon::before
 {
-	font-size:20px	
+	font-size:100px	
 }
 
 f-icon.bookmark-icon-large
 {
-	width:100px;height:100px;padding:0 .2em
+	width:20px;height:20px;padding:0 .2em
 }
 
 f-icon.bookmark-icon-large,f-icon.bookmark-icon-large::before
